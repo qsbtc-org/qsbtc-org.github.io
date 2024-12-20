@@ -1,1 +1,1 @@
-# qsbtc.github.io
+# qsbtc-org.github.io
